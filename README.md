@@ -1,5 +1,7 @@
 # 🌐 Portfólio — Hanna Parente
 
+**Acesse meu portfólio:** [hannaparente767.github.io/Portfolio](https://hannaparente767.github.io/Portfolio/)
+
 Meu portfólio pessoal desenvolvido para apresentar minha trajetória, projetos, certificados e conhecimentos na área de tecnologia.
 
 O projeto foi criado utilizando tecnologias de desenvolvimento web e também busca unir **programação, criatividade e design** em uma única experiência.
